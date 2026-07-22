@@ -1,0 +1,12 @@
+customtkinter
+pyperclip
+pillow
+tkinter
+os
+json
+webbrowser
+shutil
+typing
+pathlib
+subprocess
+re
