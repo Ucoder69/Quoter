@@ -1,0 +1,6 @@
+{
+  "default": {
+    "subject": "Quote for {name}",
+    "body_html": "<p>Dear <em>{surname}</em>,</p><p>We are pleased to provide you with a quote for our services. Please find the details below: </p> <p>Check in: {check_in}</p><p>Check out: {check_out} </p> <p>{price} </p> <p> If you have any questions or would like to proceed with the quote, please do not hesitate to contact us. </p> <p> Best regards, </p> <p> Your Company Name </p>"
+  }
+}

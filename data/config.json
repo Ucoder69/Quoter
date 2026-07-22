@@ -1,0 +1,40 @@
+{
+  "settings": {
+    "currency_symbol": "\u20b9",
+    "backup_enabled": true
+  },
+  "units": {
+    "01_": {
+      "parser_key": "room1",
+      "show_name": "Boro Boudi",
+      "type": "room",
+      "base_price": 3000,
+      "default_adults": 2,
+      "max_adults": 2,
+      "max_children": 1,
+      "gst_percent": 12,
+      "allow_extra_mattress": true,
+      "extra_mattress_price": {
+        "child_under_5_free": true,
+        "child_price_under_12": 500,
+        "adult_price": 800
+      }
+    },
+    "02_": {
+      "parser_key": "room2",
+      "show_name": "Choto Boudi",
+      "type": "room",
+      "base_price": 3000,
+      "default_adults": 2,
+      "max_adults": 10,
+      "max_children": 1,
+      "gst_percent": 12,
+      "allow_extra_mattress": true,
+      "extra_mattress_price": {
+        "child_under_5_free": true,
+        "child_price_under_12": 500,
+        "adult_price": 800
+      }
+    }
+  }
+}
